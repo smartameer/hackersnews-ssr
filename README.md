@@ -13,3 +13,7 @@ Example of Serverside rendering hackers news
 - [Webpack](https://webpack.js.org)
 - [React Router](https://reactrouter.com)
 - [Axios](https://axios-http.com)
+
+### Preview
+
+<img src="https://i.imgur.com/D0XleOL.png" height="600" width="800" />
