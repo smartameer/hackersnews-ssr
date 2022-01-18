@@ -1,0 +1,7 @@
+node_modules
+build
+*.log
+**/*/*.log
+coverage
+public
+.DS_Store
